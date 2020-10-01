@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Algorithms-and-Data-Structures-\\math\\HH.BL\\HH.BL.csproj",
-      "projectName": "HH.BL",
-      "projectPath": "E:\\Algorithms-and-Data-Structures-\\math\\HH.BL\\HH.BL.csproj",
+      "projectUniqueName": "E:\\Algorithms-and-Data-Structures-\\math\\CoderDecoder\\CoderDecoder.csproj",
+      "projectName": "CoderDecoder",
+      "projectPath": "E:\\Algorithms-and-Data-Structures-\\math\\CoderDecoder\\CoderDecoder.csproj",
       "packagesPath": "C:\\Users\\Глэк\\.nuget\\packages\\",
-      "outputPath": "E:\\Algorithms-and-Data-Structures-\\math\\HH.BL\\obj\\",
+      "outputPath": "E:\\Algorithms-and-Data-Structures-\\math\\CoderDecoder\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Глэк\\AppData\\Roaming\\NuGet\\NuGet.Config",

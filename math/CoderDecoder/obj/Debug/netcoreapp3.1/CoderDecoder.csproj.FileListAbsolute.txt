@@ -1,0 +1,9 @@
+E:\Algorithms-and-Data-Structures-\math\CoderDecoder\bin\Debug\netcoreapp3.1\CoderDecoder.deps.json
+E:\Algorithms-and-Data-Structures-\math\CoderDecoder\bin\Debug\netcoreapp3.1\CoderDecoder.dll
+E:\Algorithms-and-Data-Structures-\math\CoderDecoder\bin\Debug\netcoreapp3.1\CoderDecoder.pdb
+E:\Algorithms-and-Data-Structures-\math\CoderDecoder\obj\Debug\netcoreapp3.1\CoderDecoder.csprojAssemblyReference.cache
+E:\Algorithms-and-Data-Structures-\math\CoderDecoder\obj\Debug\netcoreapp3.1\CoderDecoder.csproj.CoreCompileInputs.cache
+E:\Algorithms-and-Data-Structures-\math\CoderDecoder\obj\Debug\netcoreapp3.1\CoderDecoder.AssemblyInfoInputs.cache
+E:\Algorithms-and-Data-Structures-\math\CoderDecoder\obj\Debug\netcoreapp3.1\CoderDecoder.AssemblyInfo.cs
+E:\Algorithms-and-Data-Structures-\math\CoderDecoder\obj\Debug\netcoreapp3.1\CoderDecoder.dll
+E:\Algorithms-and-Data-Structures-\math\CoderDecoder\obj\Debug\netcoreapp3.1\CoderDecoder.pdb

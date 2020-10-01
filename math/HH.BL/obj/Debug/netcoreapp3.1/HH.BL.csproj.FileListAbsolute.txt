@@ -24,3 +24,16 @@ E:\Algorithms-and-Data-Structures-\HH.BL\obj\Debug\netcoreapp3.1\HH.BL.AssemblyI
 E:\Algorithms-and-Data-Structures-\HH.BL\obj\Debug\netcoreapp3.1\HH.BL.dll
 E:\Algorithms-and-Data-Structures-\HH.BL\obj\Debug\netcoreapp3.1\HH.BL.pdb
 E:\Algorithms-and-Data-Structures-\HH.BL\obj\Debug\netcoreapp3.1\HH.BL.genruntimeconfig.cache
+E:\Algorithms-and-Data-Structures-\math\HH.BL\obj\Debug\netcoreapp3.1\HH.BL.csprojAssemblyReference.cache
+E:\Algorithms-and-Data-Structures-\math\HH.BL\obj\Debug\netcoreapp3.1\HH.BL.csproj.CoreCompileInputs.cache
+E:\Algorithms-and-Data-Structures-\math\HH.BL\obj\Debug\netcoreapp3.1\HH.BL.AssemblyInfoInputs.cache
+E:\Algorithms-and-Data-Structures-\math\HH.BL\obj\Debug\netcoreapp3.1\HH.BL.AssemblyInfo.cs
+E:\Algorithms-and-Data-Structures-\math\HH.BL\obj\Debug\netcoreapp3.1\HH.BL.dll
+E:\Algorithms-and-Data-Structures-\math\HH.BL\obj\Debug\netcoreapp3.1\HH.BL.pdb
+E:\Algorithms-and-Data-Structures-\math\HH.BL\bin\Debug\netcoreapp3.1\HH.BL.exe
+E:\Algorithms-and-Data-Structures-\math\HH.BL\bin\Debug\netcoreapp3.1\HH.BL.deps.json
+E:\Algorithms-and-Data-Structures-\math\HH.BL\bin\Debug\netcoreapp3.1\HH.BL.runtimeconfig.json
+E:\Algorithms-and-Data-Structures-\math\HH.BL\bin\Debug\netcoreapp3.1\HH.BL.runtimeconfig.dev.json
+E:\Algorithms-and-Data-Structures-\math\HH.BL\bin\Debug\netcoreapp3.1\HH.BL.dll
+E:\Algorithms-and-Data-Structures-\math\HH.BL\bin\Debug\netcoreapp3.1\HH.BL.pdb
+E:\Algorithms-and-Data-Structures-\math\HH.BL\obj\Debug\netcoreapp3.1\HH.BL.genruntimeconfig.cache

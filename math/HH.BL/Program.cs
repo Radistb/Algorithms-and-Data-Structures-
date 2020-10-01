@@ -1,6 +1,6 @@
-﻿using HH.BL.question2;
-using HH.BL.question3;
-using System;
+﻿
+using HH.BL.question2_4;
+using HH.BL.question2_5;
 
 namespace HH.BL
 {
@@ -8,8 +8,9 @@ namespace HH.BL
     {
         static void Main(string[] args)
         {
-            Group1Fdx group1Fdx = new Group1Fdx();
-            group1Fdx.Calculate();
+            Group1DC group1DC = new Group1DC();
+
+            group1DC.decoder();
         }
     }
 }
