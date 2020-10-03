@@ -1,59 +1,60 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Text;
 
-namespace HH.BL
-{
-    public class Program
+namespace HH.BL.question2_4
+{                //E:/Algorithms-and-Data-Structures-/z31.txt
+
+    public class UserInterface
     {
-        static void Main(string[] args)
+        Dictionary<char, char> dictionary = new Dictionary<char, char>(
+
+            ("а", "q"),
+            ("б", "w"),
+            ("в", "e"),
+            ("г", "r"),
+            ("д", "t"),
+            ("е", "y"),
+            ("ё", "u"),
+            ("ж", "i"),
+            ("з", "o"),
+            ("и", "p"),
+            ("й", "a"),
+            ("к", "s"),
+            ("л", "d"),
+            ("м", "f"),
+            ("н", "g"),
+            ("о", "h"),
+            ("п", "j"),
+            ("р", "k"),
+            ("с", "l"),
+            ("т", "z"),
+            ("у", "x"),
+            ("ф", "c"),
+            ("х", "v"),
+            ("ч", "b"),
+            ("ш", "n"),
+            ("щ", "m"),
+            ("ю", "<"),
+            ("я", ">"),
+            ("ц", "?"),
+            ("ъ", "."),
+            ("ы", "_"),
+            ("ь", "="),
+            ("э", ","),
+            ("і", ":"),
+            ("ї", ";"));
+        public static void navigation()
         {
 
-            Dictionary<string, string> dictionary = new Dictionary<string, string>();
-            dictionary.Add("а", "q");
-            dictionary.Add("б", "w");
-            dictionary.Add("в", "e");
-            dictionary.Add("г", "r");
-            dictionary.Add("д", "t");
-            dictionary.Add("е", "y");
-            dictionary.Add("ё", "u");
-            dictionary.Add("ж", "i");
-            dictionary.Add("з", "o");
-            dictionary.Add("и", "p");
-            dictionary.Add("й", "a");
-            dictionary.Add("к", "s");
-            dictionary.Add("л", "d");
-            dictionary.Add("м", "f");
-            dictionary.Add("н", "g");
-            dictionary.Add("о", "h");
-            dictionary.Add("п", "j");
-            dictionary.Add("р", "k");
-            dictionary.Add("с", "l");
-            dictionary.Add("т", "z");
-            dictionary.Add("у", "x");
-            dictionary.Add("ф", "c");
-            dictionary.Add("х", "v");
-            dictionary.Add("ч", "b");
-            dictionary.Add("ш", "n");
-            dictionary.Add("щ", "m");
-            dictionary.Add("ю", "<");
-            dictionary.Add("я", ">");
-            dictionary.Add("ц", "?");
-            dictionary.Add("ъ", ".");
-            dictionary.Add("ы", "_");
-            dictionary.Add("ь", "=");
-            dictionary.Add("э", ",");
-            dictionary.Add("і", ":");
-            dictionary.Add("ї", ";");
-
-
-            //@"E:/Algorithms-and-Data-Structures-/z3.txt"
             Console.Clear();
             Console.WriteLine("Coder example");
 
             Console.Write("Enter your message: ");
-            string input = encode(Console.ReadLine());
-            Console.WriteLine("Decoded message: {0}", input);
+            string dataInput = encode(Console.ReadLine());
+            Console.WriteLine("Decoded message{0}", dataInput);
+
             int mode = 0;
 
             List<string> fileData = new List<string>();
@@ -88,7 +89,7 @@ namespace HH.BL
             {
                 case 1:
                     mode = 0;
-                    while (mode == 0 || mode > 2)
+                    while (mode = 0 || mode > 2)
                     {
                         Console.WriteLine();
                         Console.WriteLine("Choose encoding method\n");
@@ -133,30 +134,10 @@ namespace HH.BL
                     }
                     break;
             }
-    
         }
-        static string decode(string input)
+        static string encode(string dataInput)
         {
-            char[] chars = input.ToCharArray();
-            for (int i = 0; i < chars.Length; i++)
-            {
-                if (dictionary.ContainsValue(chars[i]))
-                {
-                    foreach (KeyValuePair<char, char> pair in dictionary)
-                    {
-                        if (pair.Value.Equals(chars[i]))
-                        {
-                            chars[i] = pair.Key;
-                            break;
-                        }
-                    }
-                }
-                return new string(chars);
-            }
-        }
-        static string encode(string input)
-        {
-            char[] chars = input.ToCharArray();
+            char[] chars = dataInput.ToCharArray();
             for (int i = 0; i <= chars.Length - 1; i++)
             {
                 if (dictionary.ContainsKey(chars[i]))
@@ -166,6 +147,24 @@ namespace HH.BL
             }
             return new string(chars);
         }
-        
+        static string decode(string dataInput)
+        {
+            char[] chars = dataInput.ToCharArray();
+            for(int i = 0; i < chars.Length; i++)
+            {
+                if(dictionary.ContainsValue(chars[i]))
+                {
+                    foreach(KeyValuePair<char, char> pair in dictionary)
+                    {
+                        if(pair.Value.Equals(chars[i]))
+                        {
+                            chars[i] = pair.Key;
+                            break;
+                        }
+                    }
+                }
+                return new string(chars);
+            }
+        }
     }
 }
