@@ -1,0 +1,8 @@
+E:\Algorithms-and-Data-Structures-\Engineering_systems\Conveyor\Conv.Bl\bin\Debug\netcoreapp3.1\Conv.Bl.deps.json
+E:\Algorithms-and-Data-Structures-\Engineering_systems\Conveyor\Conv.Bl\bin\Debug\netcoreapp3.1\Conv.Bl.dll
+E:\Algorithms-and-Data-Structures-\Engineering_systems\Conveyor\Conv.Bl\bin\Debug\netcoreapp3.1\Conv.Bl.pdb
+E:\Algorithms-and-Data-Structures-\Engineering_systems\Conveyor\Conv.Bl\obj\Debug\netcoreapp3.1\Conv.Bl.AssemblyInfoInputs.cache
+E:\Algorithms-and-Data-Structures-\Engineering_systems\Conveyor\Conv.Bl\obj\Debug\netcoreapp3.1\Conv.Bl.AssemblyInfo.cs
+E:\Algorithms-and-Data-Structures-\Engineering_systems\Conveyor\Conv.Bl\obj\Debug\netcoreapp3.1\Conv.Bl.dll
+E:\Algorithms-and-Data-Structures-\Engineering_systems\Conveyor\Conv.Bl\obj\Debug\netcoreapp3.1\Conv.Bl.pdb
+E:\Algorithms-and-Data-Structures-\Engineering_systems\Conveyor\Conv.Bl\obj\Debug\netcoreapp3.1\Conv.Bl.csprojAssemblyReference.cache

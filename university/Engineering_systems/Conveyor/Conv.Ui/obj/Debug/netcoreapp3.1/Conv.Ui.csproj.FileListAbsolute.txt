@@ -1,0 +1,12 @@
+E:\Algorithms-and-Data-Structures-\Engineering_systems\Conveyor\Conv.Ui\bin\Debug\netcoreapp3.1\Conv.Ui.exe
+E:\Algorithms-and-Data-Structures-\Engineering_systems\Conveyor\Conv.Ui\bin\Debug\netcoreapp3.1\Conv.Ui.deps.json
+E:\Algorithms-and-Data-Structures-\Engineering_systems\Conveyor\Conv.Ui\bin\Debug\netcoreapp3.1\Conv.Ui.runtimeconfig.json
+E:\Algorithms-and-Data-Structures-\Engineering_systems\Conveyor\Conv.Ui\bin\Debug\netcoreapp3.1\Conv.Ui.runtimeconfig.dev.json
+E:\Algorithms-and-Data-Structures-\Engineering_systems\Conveyor\Conv.Ui\bin\Debug\netcoreapp3.1\Conv.Ui.dll
+E:\Algorithms-and-Data-Structures-\Engineering_systems\Conveyor\Conv.Ui\bin\Debug\netcoreapp3.1\Conv.Ui.pdb
+E:\Algorithms-and-Data-Structures-\Engineering_systems\Conveyor\Conv.Ui\obj\Debug\netcoreapp3.1\Conv.Ui.AssemblyInfoInputs.cache
+E:\Algorithms-and-Data-Structures-\Engineering_systems\Conveyor\Conv.Ui\obj\Debug\netcoreapp3.1\Conv.Ui.AssemblyInfo.cs
+E:\Algorithms-and-Data-Structures-\Engineering_systems\Conveyor\Conv.Ui\obj\Debug\netcoreapp3.1\Conv.Ui.dll
+E:\Algorithms-and-Data-Structures-\Engineering_systems\Conveyor\Conv.Ui\obj\Debug\netcoreapp3.1\Conv.Ui.pdb
+E:\Algorithms-and-Data-Structures-\Engineering_systems\Conveyor\Conv.Ui\obj\Debug\netcoreapp3.1\Conv.Ui.genruntimeconfig.cache
+E:\Algorithms-and-Data-Structures-\Engineering_systems\Conveyor\Conv.Ui\obj\Debug\netcoreapp3.1\Conv.Ui.csprojAssemblyReference.cache
