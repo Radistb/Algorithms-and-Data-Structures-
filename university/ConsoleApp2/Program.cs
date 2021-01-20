@@ -21,7 +21,7 @@ namespace ConsoleApp2
 
 
 
-            VerticalNav Menu = new VerticalNav(Menu1_Items, false, 10, 10);
+            VerticalNav Menu = new VerticalNav(Menu1_Items, false, 50, 20);
             index = Menu.Show(0);
             Console.WriteLine(index);
             Console.ReadLine();      

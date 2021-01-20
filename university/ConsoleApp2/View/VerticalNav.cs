@@ -29,7 +29,7 @@ namespace ConsoleApp2.View
             y = yPos;
             h = this.Items.Count + 1;
             //визначаємо ширину меню
-            w = 16;
+            w = 20;
             for (int i = 0; i < this.Items.Count; i++)
             {
                 tmp = (string)this.Items[i];
@@ -48,15 +48,15 @@ namespace ConsoleApp2.View
 
             }
 
-            //for(int i = 0; i < Items.Count; i++)
-            //{
-            //    tmp = " " + (string)Items[i];
-            //    if(tmp.Length < w - 2)
-            //    {
-            //        for(int k = tmp.Length; k < w - 2; k++) { tmp = tmp + " "; }
-            //    }
-            //    Items[i] = tmp;
-            //}
+            for (int i = 0; i < Items.Count; i++)
+            {
+                tmp = " " + (string)Items[i];
+                if (tmp.Length < w - 2)
+                {
+                    for (int k = tmp.Length; k < w - 2; k++) { tmp = tmp + " "; }
+                }
+                Items[i] = tmp;
+            }
             //вимикаємо курсор
             Console.CursorVisible = false;
         }
